@@ -1,3 +1,3 @@
 # BirthdayApp
 I made Birthday App
-![Screenshot](/Desktop/Screenshot-1618312198)
+![Screenshot](C:/users/pooji/Screenshot-1618312198)
